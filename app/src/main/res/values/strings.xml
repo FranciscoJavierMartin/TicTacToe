@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="next_player">Turno: %1$s</string>
+    <string name="finalized_game">Finalized game</string>
+    <string name="first_player">Turn X</string>
+    <string name="winner">Winner: %1$s</string>
+    <string name="draw">Draw</string>
+</resources>
